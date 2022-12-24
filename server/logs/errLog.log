@@ -1,0 +1,4 @@
+07-12-2022	17:25:28	a9c336f6-ca7e-4120-9a97-18d109dfd6c8	TypeError: res.sendSatus is not a function	 POST	 /user/login	 undefined
+}07-12-2022	17:26:48	b7cef4d2-604e-4cfa-a4ee-843028cc03df	TypeError: res.sendSatus is not a function	 POST	 /user/login	 undefined
+}07-12-2022	17:27:06	23abf59d-558f-444a-b9d7-f3c68e7ecbc0	TypeError: res.satus is not a function	 POST	 /user/login	 undefined
+}
